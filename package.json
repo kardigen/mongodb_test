@@ -1,0 +1,11 @@
+{
+    "name": "mongodb_tests"
+  , "version": "0.1.0"
+  , "private": true
+  , "dependencies": {
+    "mongoose": ">=2.4.10"
+    ,"should": ">=0.5.1"
+    ,"mocha": ">=0.14.1"
+
+  }
+}
